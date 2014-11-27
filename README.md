@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Developing workflows in SharePoint 2013
 =========================================
 > *View the presentation here [devendrasv.github.io / pres-developing-worfkflows-in-sp2013](http://devendrasv.github.io/pres-developing-worfkflows-in-sp2013)*
@@ -25,6 +24,3 @@ Objectives
 ----------
 - Learn fundamentals of SharePoint 2013 workflows.
 - Develop workflows using SharePoint designer 2013 and Visual Studio 2013.
-=======
->>>>>>> origin/gh-pages
-
